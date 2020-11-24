@@ -1,9 +1,4 @@
 # MachineLearningRepo
-# MachineLearningRepo
-# MachineLearningRepo
-# MachineLearningRepo
-# MachineLearningRepo
-# MachineLearningRepo
-# MachineLearningRepo
-# Music machine learning
-# Music machine learning
+
+This is a test of machine leaening using music 
+as example.
